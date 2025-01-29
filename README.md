@@ -1,2 +1,2 @@
-# wasma-dev.github.io
-Website for wasma-dev: https://wasma.dev
+# Under construction
+Website for Wasma: https://wasma.dev
