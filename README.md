@@ -1,2 +1,2 @@
 # Under construction
-Website for Wasma: https://wasma.dev
+Website for Wasmachine: https://wasma.dev
